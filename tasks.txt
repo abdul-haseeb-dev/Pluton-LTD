@@ -1,0 +1,4 @@
+Create a template Vite app with third web
+install tailwindcss
+Use thirdweb Dashboard SDK TO access contracts
+Design a Sleek looking Frontend
