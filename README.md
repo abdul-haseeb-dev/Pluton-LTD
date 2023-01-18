@@ -1,3 +1,6 @@
+# NOTICE:
+Used A Thirdweb And A Hardhat Development Environment.
+
 ## Getting Started
 
 Create a project using this example:
